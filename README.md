@@ -3,6 +3,11 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/CodeRedDev/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/CodeRedDev/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
+### Links
+
+- [CodeRed on StackOverflow](https://stackoverflow.com/users/5437331/codered)
+- [CodeRed's (outdated) Webpage](http://codereddev.de/)
+
 <!--
 **CodeRedDev/CodeRedDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
