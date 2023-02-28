@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/CodeRedDev/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/CodeRedDev/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/CodeRedDev/langs?time_range=six_months&include_private=True&group=other&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/CodeRedDev/repos?time_range=six_months&include_private=True&group=other&theme=classic)](https://githubtrends.io)
 
 ### Links
 
