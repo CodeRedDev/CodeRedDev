@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael CodeRed 👋
 
 - 👨‍💻 I'm currently working on Flutter, Android and Spring
-- 🔭 I'm curious about learning new things, be that professional or private projects (Apps, Game-Servers, Video Editing, ...)
+- 🔭 I'm curious about learning new things, be that in professional or private projects (Apps, Game-Servers, Video Editing, ...)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CodeRedDev&theme=android-dark&card_width=500)](https://git.io/streak-stats)
 
