@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Michael CodeRed 👋
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/CodeRedDev/langs?time_range=six_months&include_private=True&group=other&theme=classic)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/CodeRedDev/repos?time_range=six_months&include_private=True&group=other&theme=classic)](https://githubtrends.io)
+- 👨‍💻 I'm currently working on Flutter, Android and Spring
+- 🔭 I'm curious about learning new things, be that professional or private projects (Apps, Game-Servers, Video Editing, ...)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CodeRedDev&theme=android-dark&card_width=500)](https://git.io/streak-stats)
 
 ### Links
 
+- [LinkedIn](https://www.linkedin.com/in/codereddev/)
 - [CodeRed on StackOverflow](https://stackoverflow.com/users/5437331/codered)
 - [CodeRed's (outdated) Webpage](http://codereddev.de/)
 
