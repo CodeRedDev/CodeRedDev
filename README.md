@@ -1,4 +1,4 @@
-### Hi there, I'm Michael CodeRed 👋
+### Hi there, I'm Michael aka CodeRed 👋
 
 - 👨‍💻 I'm currently working on Flutter, Android and Spring
 - 🔭 I'm curious about learning new things, be that in professional or private projects (Apps, Game-Servers, Video Editing, ...)
